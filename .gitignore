@@ -24,3 +24,5 @@
 *~
 *.bcf
 *.run.xml
+*.gz
+*.pdf
