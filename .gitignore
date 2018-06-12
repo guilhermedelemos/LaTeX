@@ -26,3 +26,6 @@
 *.run.xml
 *.gz
 *.pdf
+*.nav
+*.snm
+*.vrb
